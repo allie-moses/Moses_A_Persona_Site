@@ -1,0 +1,130 @@
+
+article {
+  max-width: 777px;
+  /*padding: 21px;*/
+  margin: 0 auto;
+}
+
+body,html{
+  margin: 0;
+  padding: 0;
+  /*background: #D3FFFC;*/
+  background: #FFFAEF;
+
+}
+
+/*#lolpops {
+    background-image: url(images/lol.jpg);
+    }*/
+
+    #lolpops {
+      height: 200px;
+
+    }
+
+/*.delete-this-div-and-class{
+    height: 150px;
+    width: 500px;
+    position: absolute;
+    background: #888888;
+    border: 2px solid #444444;
+    border-radius: 20px;
+    text-align: center;
+    margin: -75px 0 0 -250px;
+    left: 50%;
+    top: 50%;
+    }*/
+
+
+    h1 {
+      text-align: center;
+
+      font-family: 'Dosis', sans-serif;
+
+    }
+
+
+    header {
+      text-align: center;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    /*img {
+      margin: 30px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+      }*/
+      ul {
+        padding: 10px;
+        background: #C0A2CC;
+      }
+      li {
+        display: inline;
+        padding: 7px 7px 7px 7px 7px 7px 7px 7px;
+      }
+
+      #lifebutt {
+        background: #C0A2CC;
+        color: white;
+      }
+
+      .carouselImage {
+        max-height: 350px;
+        text-align: center;
+        max-width: 500px;
+      }
+
+      #carousel-example-generic {
+        /*width: 500px;*/
+        /*margin-left: 3%;*/
+        position: absolute;
+      }
+
+      .char9 {
+        /*color: #6BCCB1;*/
+        color: #F49AFF;
+      }
+
+      .char17 {
+        /*color: #6BCCB1;*/
+        color: #9AADFF;
+      }
+
+      .char25 {
+        color: pink;
+      }
+
+
+      .char33 {
+        color: #E870B2;
+      }
+
+      .char41 {
+        color: #2EBEE8;
+      }
+
+      .char57 {
+        /*color: #61CC73;*/
+        color: #938CE8;
+      }
+      .char65 {
+        /*color: #FFF57C;*/
+        color: #9AADFF;
+      }
+
+      .char73 {
+        /*color: #6755E8;*/
+        color: #F49AFF;
+      }
+
+      .footer {
+        font-size: 15px;
+        color: black;
+      }
+
+
